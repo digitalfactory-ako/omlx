@@ -2649,5 +2649,7 @@
   "usage.total": "Total Tokens",
   "usage.trend": "Hourly trend",
   "usage.unavailable": "Usage history is unavailable. Inference continues normally.",
-  "usage.yesterday": "Yesterday"
+  "usage.yesterday": "Yesterday",
+  "cluster.assistant.coordinator.label": "Rank 0 (endpoint)",
+  "cluster.assistant.coordinator.automatic": "Automatic"
 }

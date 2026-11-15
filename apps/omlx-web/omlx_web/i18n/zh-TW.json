@@ -464,6 +464,7 @@
   "cluster.assistant.action.other": "This step is not automated yet. Use the controls below.",
   "cluster.assistant.action.pair_mac": "Pair this Mac",
   "cluster.assistant.action.plan": "Plan again",
+  "cluster.assistant.action.raise_wired_limit": "Raise the GPU limit in the oMLX app (Performance → Apply with Admin…)",
   "cluster.assistant.action.retry_coordinator": "Retry on {node}",
   "cluster.assistant.action.start": "Start again",
   "cluster.assistant.action.status": "Show progress",
@@ -2648,5 +2649,7 @@
   "usage.total": "Token 總數",
   "usage.trend": "逐小時趨勢",
   "usage.unavailable": "使用歷史無法使用。推論正常繼續。",
-  "usage.yesterday": "昨天"
+  "usage.yesterday": "昨天",
+  "cluster.assistant.coordinator.label": "Rank 0 (endpoint)",
+  "cluster.assistant.coordinator.automatic": "Automatic"
 }
