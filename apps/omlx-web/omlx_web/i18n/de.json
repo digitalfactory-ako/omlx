@@ -2037,7 +2037,7 @@
   "settings.advanced.cache": "Cache",
   "settings.advanced.distributed_inference": "Verteilte Inferenz",
   "settings.advanced.distributed_inference_enabled": "Verteilte Inferenz aktivieren",
-  "settings.advanced.distributed_inference_hint": "Aktiviert nach einem Neustart die Registerkarte „Cluster“, die Cluster-API-Routen und die Bonjour-Ankündigungen. Standardmäßig deaktiviert, solange die Funktion weiterentwickelt wird.",
+  "settings.advanced.distributed_inference_hint": "Aktiviert nach einem Neustart die Registerkarte „Cluster“, die Cluster-API-Routen und die Bonjour-Ankündigungen. Standardmäßig aktiviert — der Cluster Assistant benötigt es.",
   "settings.advanced.gdn_cache_policy": "GDN-Cache-Richtlinie",
   "settings.advanced.gdn_cache_policy_hint": "Manche Modelle verwenden rekurrente Gated-DeltaNet-Schichten (GDN), deren Zustand sich nicht allein aus KV-Cache-Blöcken rekonstruieren lässt. Ein zusätzlicher Zustands-Snapshot ermöglicht oMLX, zwischengespeicherte Prompts ohne erneute Berechnung fortzusetzen.",
   "settings.advanced.gdn_pending_write_limit": "SSD-Schreibpuffer",

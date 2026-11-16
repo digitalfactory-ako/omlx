@@ -2037,7 +2037,7 @@
   "settings.advanced.cache": "캐시",
   "settings.advanced.distributed_inference": "분산 추론",
   "settings.advanced.distributed_inference_enabled": "분산 추론 활성화",
-  "settings.advanced.distributed_inference_hint": "재시작 후 클러스터 탭, 클러스터 API 경로 및 Bonjour 광고를 활성화합니다. 기능이 안정화되는 동안 기본적으로 비활성화됩니다.",
+  "settings.advanced.distributed_inference_hint": "재시작 후 클러스터 탭, 클러스터 API 경로 및 Bonjour 광고를 활성화합니다. 기본적으로 활성화되어 있으며 클러스터 어시스턴트에 필요합니다.",
   "settings.advanced.gdn_cache_policy": "GDN 캐시 정책",
   "settings.advanced.gdn_cache_policy_hint": "일부 모델은 Gated DeltaNet(GDN) 순환 레이어를 사용하며, 이 레이어의 상태는 KV 캐시 블록만으로 복원할 수 없습니다. oMLX는 캐시된 프롬프트를 다시 계산하지 않고 이어서 처리하도록 별도의 상태 스냅샷을 저장합니다.",
   "settings.advanced.gdn_pending_write_limit": "SSD 쓰기 버퍼",

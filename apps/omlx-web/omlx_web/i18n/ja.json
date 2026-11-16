@@ -2037,7 +2037,7 @@
   "settings.advanced.cache": "キャッシュ",
   "settings.advanced.distributed_inference": "分散推論",
   "settings.advanced.distributed_inference_enabled": "Enable Distributed Inference",
-  "settings.advanced.distributed_inference_hint": "再起動後にクラスタタブ、クラスタ API ルート、Bonjour 広告を有効にします。機能の成熟中はデフォルトで無効です。",
+  "settings.advanced.distributed_inference_hint": "再起動後にクラスタタブ、クラスタ API ルート、Bonjour 広告を有効にします。デフォルトで有効です。クラスタアシスタントに必要です。",
   "settings.advanced.gdn_cache_policy": "GDN Cache Policy",
   "settings.advanced.gdn_cache_policy_hint": "Some models use Gated DeltaNet (GDN) recurrent layers whose state cannot be reconstructed from KV cache blocks alone. An extra state snapshot lets oMLX resume cached prompts without recomputing them.",
   "settings.advanced.gdn_pending_write_limit": "SSD Write Buffer",

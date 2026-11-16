@@ -2037,7 +2037,7 @@
   "settings.advanced.cache": "缓存",
   "settings.advanced.distributed_inference": "分布式推理",
   "settings.advanced.distributed_inference_enabled": "启用分布式推理",
-  "settings.advanced.distributed_inference_hint": "重启后启用集群选项卡、集群 API 路由和 Bonjour 广播。功能完善期间默认关闭。",
+  "settings.advanced.distributed_inference_hint": "重启后启用集群选项卡、集群 API 路由和 Bonjour 广播。默认开启，集群助手需要它。",
   "settings.advanced.gdn_cache_policy": "GDN 缓存策略",
   "settings.advanced.gdn_cache_policy_hint": "部分模型使用 Gated DeltaNet (GDN) 循环层，其状态无法仅从 KV 缓存块重建。额外的状态快照让 oMLX 无需重新计算即可恢复已缓存的提示词。",
   "settings.advanced.gdn_pending_write_limit": "SSD 写入缓冲区",

@@ -2037,7 +2037,7 @@
   "settings.advanced.cache": "Cache",
   "settings.advanced.distributed_inference": "Distribuovaná inference",
   "settings.advanced.distributed_inference_enabled": "Povolit distribuovanou inferenci",
-  "settings.advanced.distributed_inference_hint": "Po restartu povolí kartu Cluster, routy cluster API a zjistitelnost přes Bonjour. Ve výchozím stavu vypnuto, dokud funkce nedozraje.",
+  "settings.advanced.distributed_inference_hint": "Po restartu povolí kartu Cluster, routy cluster API a zjistitelnost přes Bonjour. Ve výchozím stavu zapnuto — Cluster Assistant to vyžaduje.",
   "settings.advanced.gdn_cache_policy": "Strategie cache GDN",
   "settings.advanced.gdn_cache_policy_hint": "Některé modely používají rekurentní vrstvy Gated DeltaNet (GDN), jejichž stav nelze rekonstruovat ze samotných bloků KV cache. Dodatečný snapshot stavu umožní oMLX obnovit cachované prompty bez jejich přepočtu.",
   "settings.advanced.gdn_pending_write_limit": "Buffer zápisu na SSD",
